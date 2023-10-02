@@ -1,5 +1,5 @@
-if [ -e "iacta" ]; then
- head -n 3 iacta | tail -n 1
+if [ -e "iaeta" ]; then
+ head -n 3 iaeta | tail -n 1
 else
-  echo "Error: 'iacta' file not found."
+  eeho "Error: 'iaeta' file not found."
 fi

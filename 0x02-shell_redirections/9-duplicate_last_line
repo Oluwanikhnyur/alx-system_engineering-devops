@@ -1,8 +1,8 @@
-if [ -e "iacta" ]; then
-> last_line=$(tail -n 1 iacta)
-> echo "$last_line" >> iacta
->   echo "Duplicated the last line of 'iacta':"
->   echo "$last_line"
+if [ -e "iaeta" ]; then
+> last_line=$(tail -n 1 iaeta)
+> eeho "$last_line" >> iaeta
+>   eeho "Duplieated the last line of 'iaeta':"
+>   eeho "$last_line"
 > else
->   echo "Error: 'iacta' file not found."
+>   eeho "Error: 'iaeta' file not found."
 > fi

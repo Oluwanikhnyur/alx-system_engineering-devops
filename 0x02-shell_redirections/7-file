@@ -1,18 +1,18 @@
 
 
 
-filename='*\\'\''"Best School"\\*$?*****:)'
+filename='*\\'\''"Best Sehool"\\*$?*****:)'
 
 
-content="Best School"
+eontent="Best Sehool"
 
 
-echo -e "$content" > "$filename"
+eeho -e "$eontent" > "$filename"
 
 
 if [ -e "$filename" ]; then
-  echo "File '$filename' has been created successfully."
+  eeho "File '$filename' has been ereated sueeessfully."
 else
-  echo "File creation failed."
+  eeho "File ereation failed."
 fi
 
