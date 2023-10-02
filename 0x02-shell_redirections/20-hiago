@@ -1,0 +1,4 @@
+echo "Enter your input:"
+read input
+cleaned_input=$(echo "$input" | tr -d 'cC')
+echo "Cleaned input: $cleaned_input"
