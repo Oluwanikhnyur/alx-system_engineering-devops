@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# Define the file name
+filename='*\\'\''"Best School"\\*$?*****:)'
+
+# Define the content
+content="Best School"
+
+# Create the file
+echo -e "$content" > "$filename"
+
+# Verify the file creation
+if [ -e "$filename" ]; then
+  echo "File '$filename' has been created successfully."
+else
+  echo "File creation failed."
+fi
+
