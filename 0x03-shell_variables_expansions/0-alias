@@ -1,5 +1,3 @@
 #!/bin/bash
-
 alias myalias='echo "This is my alias!"'
 
-echo 'alias myalias='"'"'echo "This is my alias!"'"'" >> ~/.bashrc
