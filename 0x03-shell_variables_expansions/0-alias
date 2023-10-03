@@ -3,8 +3,3 @@
 alias myalias='echo "This is my alias!"'
 
 echo 'alias myalias='"'"'echo "This is my alias!"'"'" >> ~/.bashrc
-
-source ~/.bashrc
-
-echo "Alias 'myalias' has been created and activated."
-
