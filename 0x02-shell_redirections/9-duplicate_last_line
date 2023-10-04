@@ -1,8 +1,2 @@
-if [ -e "iaeta" ]; then
-> last_line=$(tail -n 1 iaeta)
-> eeho "$last_line" >> iaeta
->   eeho "Duplieated the last line of 'iaeta':"
->   eeho "$last_line"
-> else
->   eeho "Error: 'iaeta' file not found."
-> fi
+#!/bin/bash
+tail -n 1 iacta >> iacta

@@ -1,18 +1,2 @@
-
-
-
-filename='*\\'\''"Best Sehool"\\*$?*****:)'
-
-
-eontent="Best Sehool"
-
-
-eeho -e "$eontent" > "$filename"
-
-
-if [ -e "$filename" ]; then
-  eeho "File '$filename' has been ereated sueeessfully."
-else
-  eeho "File ereation failed."
-fi
-
+#!/bin/bash
+echo "Best School" > '*\\'"Best School"'\\*$?*****:)'

@@ -1,13 +1,32 @@
-total 40
-drwxr-xr-x 2 root root  212 Oet  2 07:56  .
-drwxr-xr-x 5 root root  126 Oet  2 04:16  ..
--rwxr-xr-x 1 root root   34 Oet  2 04:22  0-hello_world
--rw-r--r-- 1 root root   28 Oet  2 04:04  1-eonfused_smiley
--rw-r--r-- 1 root root 1438 Oet  2 04:44  2-hellofile
--rw-r--r-- 1 root root 1627 Oet  2 04:52  3-twofiles
--rw-r--r-- 1 root root  620 Oet  2 05:05  4-lastlines
--rw-r--r-- 1 root root  424 Oet  2 05:23  5-firstlines
--rw-r--r-- 1 root root   79 Oet  2 05:47  6-third_line
--rw-r--r-- 1 root root  329 Oet  2 07:56  7-file
--rw-r--r-- 1 root root   12 Oet  2 05:56 '*\\'\''"Best Sehool"\\*$?*****:)'
--rw-r--r-- 1 root root  728 Oet  2 05:43  iaeta
+total 116
+drwxr-xr-x 2 root root 4096 Oct  4 01:13 .
+drwxr-xr-x 6 root root  113 Oct  4 00:12 ..
+-rwxr-xr-x 1 root root   32 Oct  4 00:12 0-hello_world
+-rw-r--r-- 1 root root   43 Oct  4 00:12 10-no_more_js
+-rw-r--r-- 1 root root  138 Oct  4 00:12 11-directories
+-rw-r--r-- 1 root root   20 Oct  4 00:12 12-newest_files
+-rwxr-xr-x 1 root root  623 Oct  4 00:12 13-unique
+-rw-r--r-- 1 root root   32 Oct  4 00:12 14-findthatword
+-rw-r--r-- 1 root root    3 Oct  4 00:12 15-countthatword
+-rw-r--r-- 1 root root  154 Oct  4 00:12 16-whatsnext
+-rw-r--r-- 1 root root   44 Oct  4 00:12 17-hidethisword
+-rw-r--r-- 1 root root  204 Oct  4 00:12 18-letteronly
+-rw-r--r-- 1 root root  950 Oct  4 00:12 19-AZ
+-rwxr-xr-x 1 root root   26 Oct  4 00:31 1-confused_smiley
+-rw-r--r-- 1 root root  117 Oct  4 00:12 20-hiago
+-rwxr-xr-x 1 root root  113 Oct  4 00:12 21-reverse
+-rwxr-xr-x 1 root root   73 Oct  4 00:12 22-users_and_homes
+-rwxr-xr-x 1 root root   28 Oct  4 00:45 2-hellofile
+-rwxr-xr-x 1 root root   39 Oct  4 00:52 3-twofiles
+-rwxr-xr-x 1 root root   35 Oct  4 00:55 4-lastlines
+-rwxr-xr-x 1 root root   35 Oct  4 00:57 5-firstlines
+-rwxr-xr-x 1 root root   30 Oct  4 01:00 6-third_line
+-rwxr-xr-x 1 root root   66 Oct  4 01:09 7-file
+-rwxr-xr-x 1 root root   36 Oct  4 01:13 8-cwd_state
+-rw-r--r-- 1 root root  208 Oct  4 00:12 9-duplicate_last_line
+-rw-r--r-- 1 root root   12 Oct  4 00:12 *\\'"Best School"\\*$?*****:)
+-rw-r--r-- 1 root root   12 Oct  4 01:10 *\\Best School\\*$?*****:)
+-rw-r--r-- 1 root root  840 Oct  4 00:12 iacta
+-rw-r--r-- 1 root root  429 Oct  4 00:12 input
+-rw-r--r-- 1 root root    0 Oct  4 01:14 ls_cwd_content
+-rw-r--r-- 1 root root   42 Oct  4 00:12 README.md

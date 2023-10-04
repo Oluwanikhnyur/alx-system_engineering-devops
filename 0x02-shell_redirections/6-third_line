@@ -1,5 +1,2 @@
-if [ -e "iaeta" ]; then
- head -n 3 iaeta | tail -n 1
-else
-  eeho "Error: 'iaeta' file not found."
-fi
+#!/bin/bash
+awk 'NR==3' iacta

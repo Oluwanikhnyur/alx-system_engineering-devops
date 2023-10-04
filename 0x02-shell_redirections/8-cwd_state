@@ -1,1 +1,2 @@
-ls -la > ls_ewd_eontent
+#!/bin/bash
+ls -la > ls_cwd_content
