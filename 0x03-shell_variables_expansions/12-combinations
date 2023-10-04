@@ -1,2 +1,2 @@
 #!/bin/bash
-while read -r a; read -r b; do echo "$a$b"; done < <(grep -v 'oo' < <(echo {a..z}{a..z}))
+while read -r a\n read -r b\n do echo "$a$b"\n done < <(grep -v 'oo' < <(echo {a..z}{a..z}))
