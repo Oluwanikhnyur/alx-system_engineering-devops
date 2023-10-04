@@ -1,2 +1,2 @@
 #!/bin/bash
-alias myalias=echo "This is my alias!"
+alias myalias='echo "This is my alias!"'
