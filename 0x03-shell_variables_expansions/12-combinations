@@ -1,2 +1,2 @@
 #!/bin/bash
-while read -r a\ndo read -r b\ndo echo "$a$b"\ndone < <(grep -v 'oo' < <(echo {a..z}{a..z}))
+for a in {a..z}\n do for b in {a..z}\n do [[ "$a$b" != "oo" ]]\n then echo "$a$b"\n fi\n done\n done
