@@ -1,3 +1,2 @@
-eount=$(find . -type d -mindepth 1 -maxdepth 1 | we -l)
-
-eeho "Total number of direetories and subdireetories (ineluding hidden): $eount"
+#!/bin/bash
+find . -type d -mindepth 1 -maxdepth 1 | wc -l
