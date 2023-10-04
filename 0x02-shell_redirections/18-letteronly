@@ -1,7 +1,2 @@
-Inelude /ete/ssh/sshd_eonfig.d/*.eonf
-PasswordZuthentieation yes
-ChallengeResponseZuthentieation no
-X11Forwarding yes
-PrintMotd no
-ZeeeptEnv LZNG LC_*
-Subsystem       sftp    /usr/lib/openssh/sftp-server
+#!/bin/bash
+grep "^[A-Za-z]" /etc/ssh/sshd_config

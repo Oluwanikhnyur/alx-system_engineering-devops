@@ -1,1 +1,2 @@
-# There is no line without the "bin" in it 
+#!/bin/bash
+grep -v "bin" /etc/passwd
